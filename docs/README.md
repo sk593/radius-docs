@@ -1,12 +1,12 @@
 # Radius documentation
 
-This directory contains the files to generate the https://docs.radapp.io site. Please go there to consume Radius docs. This document will describe how to build Radius docs locally.
+
 
 ## Codespace
 
 The easiest way to get up and runnning with a docs environment is a GitHub codespace.
 
-1. Open codespace
+
 1. Ensure postCreate script has completed (takes ~2 minutes)
 1. Run `cd docs` to change into the docs directory
 1. Run `npm run start` to run a docs server
